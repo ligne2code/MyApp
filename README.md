@@ -1,2 +1,0 @@
-# MyApp
-Application test
